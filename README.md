@@ -1,3 +1,4 @@
 # Individual
 Repo made for exercise
-This will make a conflict!
+We resolved the conflict!
+More text here.
